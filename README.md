@@ -10,7 +10,6 @@ System Requirements
 
 Hardware:
 
-- High-resolution cameras (min. 720p)
 - Intel Core i3 or equivalent processor
 - 8 GB RAM
 - 60 GB HDD
